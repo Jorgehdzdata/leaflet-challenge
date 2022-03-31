@@ -1,5 +1,5 @@
 #api_key
-.logic.js
+config.js
 
 # Byte-compiled / optimized / DLL files
 __pycache__/
